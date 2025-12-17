@@ -1,0 +1,16 @@
+body {
+    margin: 0;
+    overflow: hidden;
+    background: #000;
+    background-image: url('https://img.freepik.com/fotos-premium/fondo-efecto-luz-blanco-negro_333858-401.jpg?semt=ais_hybrid&w=740&q=80?w=1920&q=80');
+    background-size: cover;
+    background-position: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+canvas {
+    display: block;
+}
